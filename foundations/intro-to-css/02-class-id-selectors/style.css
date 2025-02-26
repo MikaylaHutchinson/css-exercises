@@ -1,7 +1,6 @@
 .first {
     background-color: #f3a1a1;
-    font: Verdana, 'DejaVu Sans';
-    font-family: sans-serif;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
 }
 
 .second {
