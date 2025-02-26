@@ -1,0 +1,20 @@
+.first {
+    background-color: #f3a1a1;
+    font: Verdana, 'DejaVu Sans';
+    font-family: sans-serif;
+}
+
+.second {
+    font-size: 24px;
+}
+
+#blue-text {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#green-background {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
